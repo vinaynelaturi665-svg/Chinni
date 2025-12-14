@@ -1,10 +1,10 @@
-# AI-Based Future Fabrication System Using Physiological and Visual Parameters
+        AI-Based Future Fabrication System Using Physiological and Visual Parameters
 
-# Abstract
+ Abstract
 This project presents an AI-driven fabrication system that integrates physiological
 signals and visual parameters to dynamically recommend fabrication strategies.
 
-# Technologies Used
+   Technologies Used
 - Python
 - TensorFlow (CNN)
 - OpenCV
